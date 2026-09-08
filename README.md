@@ -22,8 +22,8 @@ The aim is to predict daily temperature, PM2.5 pollution level, and Energy using
 ```
 /*
 Program to implement the Random Forest Algorithm to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data.
-Developed by: Ans Nerling Emima S
-RegisterNumber:  212224040027
+Developed by: P.Pramisha
+RegisterNumber:  212224230203
 */
 
 import pandas as pd
